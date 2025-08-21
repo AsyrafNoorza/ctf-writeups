@@ -17,6 +17,9 @@ My collection of CTF and challenge writeups from various platforms and competiti
 - [SSTI Challenge](picoCTF/2025-SSTI.md) - Server-Side Template Injection challenge
 - [Cookie Challenge](picoCTF/2025-cookie.md) - Web exploitation involving cookies
 
+### 2023
+- [WebDecode Challenge](picoCTF/2023-WebDecode.md) - Web inspection and Base64 decoding challenge
+
 ### 2022
 - [Heapdump Challenge](picoCTF/2022-heapdump.md) - Memory analysis and forensics challenge
 
