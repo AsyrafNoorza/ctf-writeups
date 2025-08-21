@@ -8,6 +8,7 @@ My collection of CTF and challenge writeups from various platforms and competiti
 
 - [picoCTF](#picoctf)
 - [HackTheBox](#hackthebox)
+- [SKR](#skr)
 
 ---
 
@@ -28,6 +29,12 @@ My collection of CTF and challenge writeups from various platforms and competiti
 ## HackTheBox
 
 - [Example Box](HTB/example-box.md) - Example HackTheBox machine walkthrough
+
+---
+
+## SKR
+
+- [XSS-GPT Challenge](SKR/XSS-GPT.md) - Cross-Site Scripting challenge with GPT integration
 
 ---
 
