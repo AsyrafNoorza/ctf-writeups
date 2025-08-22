@@ -15,6 +15,7 @@ My collection of CTF and challenge writeups from various platforms and competiti
 ## picoCTF
 
 ### 2025
+- [n0s4n1ty 1 Challenge](picoCTF/2025-n0s4n1ty%201.md) - Web exploitation with file upload vulnerability
 - [SSTI Challenge](picoCTF/2025-SSTI.md) - Server-Side Template Injection challenge
 - [Cookie Challenge](picoCTF/2025-cookie.md) - Web exploitation involving cookies
 
